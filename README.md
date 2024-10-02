@@ -15,3 +15,5 @@ This project is a documentation guide for setting up a MERN (MongoDb,ExpressJs,R
    - Sign in to the AWS Management Console.
    - Navigate to EC2 Dashboard.
    - Click on "Launch Instance" and choose Ubuntu Server 24.04 LTS as the operating system.
+
+![instance](images/launch%20instance1.png)
