@@ -296,11 +296,15 @@ Since there is a need for a database where data can be stored for the Todo appli
 `mLab` now known as `Atlas` provides MongoDB database as a service solution (DBaaS).
 
 To make use of this service, we signed up for a shared clusters free account, and following the sign up process we select `AWS` as the cloud provider and also a prefered region close to our current location.
+
 ![instance](images/mongoDB.png)
+
 ![instance](images/mongoDBnew.png)
 
 And we also created a Database and Collections and as well set network access to allow access to the Database from anywhere.
 ![instance](images/mongoDB1.png)
+
 ![instance](images/mongoDB2.png)
+
 ![instance](images/mongoDB3.png)
 
